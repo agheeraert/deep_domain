@@ -6,5 +6,5 @@ routines for database management
 ## scripts
 Useful scripts for database transformation prior to training
 
-##src
+## src
 Training algorithm
